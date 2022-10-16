@@ -1,0 +1,8 @@
+../src/TC74R.cpp:13:1:TC74_R::TC74_R(I2C&, LpcUart&, uint8_t)	24	static
+../src/TC74R.cpp:17:1:TC74_R::~TC74_R()	16	static
+../src/TC74R.cpp:17:1:virtual TC74_R::~TC74_R()	16	static
+../src/TC74R.cpp:21:9:uint8_t TC74_R::getTemp()	32	static
+../src/TC74R.cpp:27:6:bool TC74_R::getStatus()	32	static
+../src/TC74R.cpp:40:6:bool TC74_R::checkMode()	32	static
+../src/TC74R.cpp:54:6:void TC74_R::switchNormalMode()	32	static
+../src/TC74R.cpp:64:6:void TC74_R::setIdle()	32	static

@@ -1,0 +1,10 @@
+/Applications/MCUXpressoIDE_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.macosx_11.6.0.202112161359/tools/arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v7-m/nofp/bits/gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+../src/RealTimeClock.cpp:11:1:RealTimeClock::RealTimeClock(int)	56	static
+../src/RealTimeClock.cpp:25:1:RealTimeClock::RealTimeClock(int, tm)	16	static
+../src/RealTimeClock.cpp:32:1:RealTimeClock::RealTimeClock(int, time_t)	32	static
+../src/RealTimeClock.cpp:39:1:RealTimeClock::~RealTimeClock()	16	static
+../src/RealTimeClock.cpp:39:1:virtual RealTimeClock::~RealTimeClock()	16	static
+../src/RealTimeClock.cpp:42:6:void RealTimeClock::gettime(tm*)	24	static
+../src/RealTimeClock.cpp:49:6:void RealTimeClock::tick()	40	static
+/Applications/MCUXpressoIDE_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.macosx_11.6.0.202112161359/tools/arm-none-eabi/include/c++/10.3.1/bits/std_mutex.h:158:16:std::lock_guard<_Mutex>::lock_guard(std::lock_guard<_Mutex>::mutex_type&) [with _Mutex = Imutex]	16	static
+/Applications/MCUXpressoIDE_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.macosx_11.6.0.202112161359/tools/arm-none-eabi/include/c++/10.3.1/bits/std_mutex.h:164:7:std::lock_guard<_Mutex>::~lock_guard() [with _Mutex = Imutex]	16	static

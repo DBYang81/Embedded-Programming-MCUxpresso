@@ -1,0 +1,10 @@
+/Applications/MCUXpressoIDE_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.macosx_11.6.0.202112161359/tools/arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v7-m/nofp/bits/gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+/Applications/MCUXpressoIDE_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.macosx_11.6.0.202112161359/tools/arm-none-eabi/include/c++/10.3.1/bits/basic_string.h:6609:3:std::string std::__cxx11::to_string(int)	40	static
+../src/PrintItm.cpp:10:1:PrintItm::PrintItm()	16	static
+../src/PrintItm.cpp:15:1:PrintItm::~PrintItm()	16	static
+../src/PrintItm.cpp:15:1:virtual PrintItm::~PrintItm()	16	static
+../src/PrintItm.cpp:19:5:)	532	static
+../src/PrintItm.cpp:28:5:int PrintItm::print(int)	48	static
+../src/PrintItm.cpp:34:5:int PrintItm::print(std::string)	16	static
+/Applications/MCUXpressoIDE_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.macosx_11.6.0.202112161359/tools/arm-none-eabi/include/c++/10.3.1/bits/charconv.h:47:5:constexpr unsigned int std::__detail::__to_chars_len(_Tp, int) [with _Tp = unsigned int]	32	static
+/Applications/MCUXpressoIDE_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.macosx_11.6.0.202112161359/tools/arm-none-eabi/include/c++/10.3.1/bits/charconv.h:72:5:void std::__detail::__to_chars_10_impl(char*, unsigned int, _Tp) [with _Tp = unsigned int]	40	static

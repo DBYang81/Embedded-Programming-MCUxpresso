@@ -1,0 +1,10 @@
+../src/DigitalIoPin.h:15:10:DigitalIoPin::~DigitalIoPin()	16	static
+../src/DigitalIoPin.h:15:10:virtual DigitalIoPin::~DigitalIoPin()	16	static
+/Applications/MCUXpressoIDE_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.macosx_11.6.0.202112161359/tools/arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v7-m/nofp/bits/gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+../src/Red.cpp:12:1:Red::Red()	24	static
+../src/Red.cpp:16:1:Red::~Red()	16	static
+../src/Red.cpp:16:1:virtual Red::~Red()	16	static
+../src/Red.cpp:20:6:void Red::set_ON()	16	static
+../src/Red.cpp:23:6:void Red::set_OFF()	16	static
+../src/Red.cpp:26:6:void Red::display_on()	16	static
+../src/Red.cpp:29:6:void Red::display_off()	16	static

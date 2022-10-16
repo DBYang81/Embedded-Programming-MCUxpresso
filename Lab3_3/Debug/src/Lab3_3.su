@@ -1,0 +1,7 @@
+/Users/DBY/Metro_SemesterV/Embedded Programming/MCUXpressoIDE_11.6.0_8187/workspace/lpc_chip_15xx/inc/core_cm3.h:1405:22:void NVIC_SetPriority(IRQn_Type, uint32_t)	16	static
+/Users/DBY/Metro_SemesterV/Embedded Programming/MCUXpressoIDE_11.6.0_8187/workspace/lpc_chip_15xx/inc/core_cm3.h:1532:26:uint32_t SysTick_Config(uint32_t)	16	static
+/Users/DBY/Metro_SemesterV/Embedded Programming/MCUXpressoIDE_11.6.0_8187/workspace/lpc_chip_15xx/inc/clock_15xx.h:500:20:void Chip_Clock_SetSysTickClockDiv(uint32_t)	16	static
+/Applications/MCUXpressoIDE_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.macosx_11.6.0.202112161359/tools/arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v7-m/nofp/bits/gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+../src/Lab3_3.cpp:36:5:int main()	648	static
+../src/Lab3_3.cpp:149:6:void clean_buff(char*, int)	24	static
+../src/Lab3_3.cpp:155:6:void tolower(char*)	24	static

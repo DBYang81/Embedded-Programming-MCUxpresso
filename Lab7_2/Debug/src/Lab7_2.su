@@ -1,0 +1,14 @@
+/Users/DBY/Metro_SemesterV/Embedded Programming/MCUXpressoIDE_11.6.0_8187/workspace/lpc_chip_15xx/inc/core_cm3.h:1405:22:void NVIC_SetPriority(IRQn_Type, uint32_t)	16	static
+/Users/DBY/Metro_SemesterV/Embedded Programming/MCUXpressoIDE_11.6.0_8187/workspace/lpc_chip_15xx/inc/core_cm3.h:1532:26:uint32_t SysTick_Config(uint32_t)	16	static
+/Users/DBY/Metro_SemesterV/Embedded Programming/MCUXpressoIDE_11.6.0_8187/workspace/lpc_chip_15xx/inc/clock_15xx.h:500:20:void Chip_Clock_SetSysTickClockDiv(uint32_t)	16	static
+/Applications/MCUXpressoIDE_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.macosx_11.6.0.202112161359/tools/arm-none-eabi/include/c++/10.3.1/bits/atomic_base.h:100:3:constexpr std::memory_order std::operator&(std::memory_order, std::__memory_order_modifier)	16	static
+/Applications/MCUXpressoIDE_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.macosx_11.6.0.202112161359/tools/arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v7-m/nofp/bits/gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+../src/Event.h:14:2:Event::Event(Event::eventType, int, int, int)	24	static
+../src/Lab7_2.cpp:42:6:void SysTick_Handler()	8	static
+../src/Lab7_2.cpp:49:6:void Sleep(int)	16	static
+../src/Lab7_2.cpp:60:5:int main()	784	static
+/Applications/MCUXpressoIDE_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.macosx_11.6.0.202112161359/tools/arm-none-eabi/include/c++/10.3.1/bits/atomic_base.h:291:7:std::__atomic_base<_IntTp>::operator std::__atomic_base<_IntTp>::__int_type() const volatile [with _ITp = int]	24	static
+/Applications/MCUXpressoIDE_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.macosx_11.6.0.202112161359/tools/arm-none-eabi/include/c++/10.3.1/bits/atomic_base.h:321:7:std::__atomic_base<_IntTp>::__int_type std::__atomic_base<_IntTp>::operator--(int) volatile [with _ITp = int]	32	static
+/Applications/MCUXpressoIDE_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.macosx_11.6.0.202112161359/tools/arm-none-eabi/include/c++/10.3.1/bits/atomic_base.h:302:7:std::__atomic_base<_IntTp>::__int_type std::__atomic_base<_IntTp>::operator=(std::__atomic_base<_IntTp>::__int_type) volatile [with _ITp = int]	32	static
+../src/Lab7_2.cpp:166:1:void __static_initialization_and_destruction_0(int, int)	16	static
+../src/Lab7_2.cpp:166:1:cpp)	8	static
